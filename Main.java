@@ -56,9 +56,9 @@ public class Main {
 
         
         Question q5 = new Question("Quel est le sommet le plus haut de Nouvelle caledonie ?");
-        q5.ajouterReponse(new Reponse("Mont Panié", false, Position.A));
+        q5.ajouterReponse(new Reponse("Mont Panié", true, Position.A));
         q5.ajouterReponse(new Reponse("Mont Koghi", false, Position.B));
-        q5.ajouterReponse(new Reponse("Col de Mouirange", true, Position.C));
+        q5.ajouterReponse(new Reponse("Col de Mouirange", false, Position.C));
         q5.ajouterReponse(new Reponse("Mont Humboldt", false, Position.D));
         quiz.ajouterQuestion(q5);
         System.out.println(q5);
