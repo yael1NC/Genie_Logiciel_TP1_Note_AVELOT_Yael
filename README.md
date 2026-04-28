@@ -1,6 +1,5 @@
-# CC1 Génie Logiciel
+# CC1 Génie Logiciel AVELOT Yael
 
-
-## Schéma UML
+# Schéma
 
 ![App Screenshot](diagramme-classe.jpg)
